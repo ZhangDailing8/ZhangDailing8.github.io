@@ -51,7 +51,7 @@ Currently, my research focuses on visual object tracking, with a particular emph
 <div class='school-box'>
 <div><img src='images/SEU_logo.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2019.09 - 2023.09, Undergraduate student<br>
+2019.09 - 2023.06, Undergraduate student<br>
 Robotics Engineering, Ranking <b>1/44 (2.27%)</b><br>
 School of Automation<br>
 Southeast University, Jiangsu
