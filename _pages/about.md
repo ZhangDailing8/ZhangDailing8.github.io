@@ -84,7 +84,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 </div>
 
 # 🎖 Honors and Awards
-- **China National Scholarship (国家奖学金)**, at BIT, by Ministry of Education of China, 2020.
+- **China National Scholarship (国家奖学金)**, at SEU, by Ministry of Education of China, 2020.
 - **National Second Prize**, RoboCup Family Group-Open PlatForm in the university group of RoboCup World Cup China, 2021
 - **First Prize of Science and Innovation Scholarship**, at CASIA, 2024
 
