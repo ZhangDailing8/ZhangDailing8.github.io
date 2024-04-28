@@ -19,8 +19,10 @@ redirect_from:
 
 # About me
 I am **Dailing Zhang <font face="楷体">(张岱凌)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn">Institute of Automation, Chinese Academy of Sciences (CASIA)</a >**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a >** (IAPR Fellow). Additionally, I am a member of **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a >**.
-Obtained a Bachelor's degree in <a herf="https://automation.seu.edu.cn/2019/0527/c24498a275140/page.htm">Robotics Engineering in <a herf="https://automation.seu.edu.cn/main.htm#">the School of Automation, <a herf="https://www.seu.edu.cn/english/main.htm">Southeast University in 2023.
-Currently, my research focuses on visual object tracking, with a particular emphasis on the visual-language tracking task. If you are intrigued by my work or wish to collaborate, feel free to reach out to me.
+
+Obtained a Bachelor's degree in <a herf="https://automation.seu.edu.cn/2019/0527/c24498a275140/page.htm">Robotics Engineering</a> in <a herf="https://automation.seu.edu.cn/main.htm#">the School of Automation</a>, <a herf="https://www.seu.edu.cn/english/main.htm">Southeast University</a> in 2023.
+
+Currently, my research focuses on visual object tracking, with a particular emphasis on the visual-language tracking task and combined with cognitive science. If you are intrigued by my work or wish to collaborate, feel free to reach out to me.
 
 
 
