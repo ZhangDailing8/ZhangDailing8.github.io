@@ -27,7 +27,7 @@ Currently, my research focuses on visual object tracking, with a particular emph
 
 
 # 🔥 News
-- *2021.05*: &nbsp;🏆🏆 Win the second prize of RoboCup Family Group-Open PlatForm in the university group of RoboCup World Cup 2021 China.
+- *2024.03*: &nbsp;🏆🏆 Obtain the first prize of Science and Innovation Scholarship from the Institute of Automation, Chinese Academy of Sciences.
 - *2020.12*: &nbsp;🏆🏆 Obtain China National Scholarship (国家奖学金) (the highest honor for undergraduates in China, awarded to top 1% students of SEU)!
 
 # 🔬Research Interests
@@ -61,14 +61,8 @@ Currently, my research focuses on visual object tracking, with a particular emph
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **China National Scholarship (国家奖学金)**, at BIT, by Ministry of Education of China, 2020.
+- **National Second Prize**, RoboCup Family Group-Open PlatForm in the university group of RoboCup World Cup China, 2021
+- **First Prize of Science and Innovation Scholarship**, at CASIA, 2024
 
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
