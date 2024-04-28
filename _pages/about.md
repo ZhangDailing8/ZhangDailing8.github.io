@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Hi, I am Dailing Zhang(张岱凌)! I’m a Ph.D. student at <a herf='http://english.ia.cas.cn'>Institute of Automation, Chinese Academy of Sciences (CASIA).
-
+I am **Dailing Zhang <font face="楷体">(张岱凌)</font>**, an incoming Ph.D. student at **<a href=" ">Institute of Automation, Chinese Academy of Sciences (CASIA)</a >**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a >** (IAPR Fellow). Additionally, I am a member of **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a >**.
 
 
 
