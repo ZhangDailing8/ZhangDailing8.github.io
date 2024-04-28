@@ -102,7 +102,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 - **Yaxuan Kang**, design researcher, research assistant, and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on human-computer interaction.
 - **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on computer vision and AI4Science.
 - [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
-- [Xuchen Li](https://xuchen-li.github.io), incoming Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
+- [**Xuchen Li**](https://xuchen-li.github.io), incoming Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
 
 My homepage visitors recorded from April, 2024. Thanks for attention.
 
