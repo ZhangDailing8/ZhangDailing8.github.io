@@ -30,6 +30,22 @@ Currently, my research focuses on visual object tracking, with a particular emph
 - *2021.05*：&nbsp;🏆🏆 Win the second prize of RoboCup Family Group-Open PlatForm in the university group of RoboCup World Cup 2021 China.
 - *2020.12*: &nbsp;🏆🏆 Obtain China National Scholarship (国家奖学金) (the highest honor for undergraduates in China, awarded to top 1% students of SEU)!
 
+# 🔬Research Interests
+## Visual Object Tracking
+- Research on visual object tracking algorithms within diverse scenes, aims to enhance the understanding and performance of single object tracking in various scenarios.
+- Research on the robustness and generalization aspects of single object tracking algorithms, investigates the algorithms’ ability to adapt across diverse scenarios, ensuring consistent and reliable performance.
+
+
+## Visual Turing Test
+- Design of a human-machine universal visual ability evaluation framework with cognitive science.
+- Benchmarking the performance of algorithms based on human abilities in perceptual, cognitive,, etc. Analyzing the bottlenecks of algorithms and human subjects in depth, providing guidance for research on human-like modeling, human-machine collaboration, and human-machine integration.
+
+
+## Visual Language Tracking
+- Researching visual object tracking algorithms across diverse scenes to enhance single object tracking performance in various scenarios.
+- Exploring the robustness and generalization aspects of single object tracking algorithms to ensure consistent and reliable performance across diverse scenarios.
+
+
 # 📝 Publications 
 
 
