@@ -24,8 +24,6 @@ Obtained a Bachelor's degree in **<a href="https://automation.seu.edu.cn/2019/05
 
 Currently, my research focuses on visual object tracking, with a particular emphasis on the visual-language tracking task and combined with cognitive science. If you are intrigued by my work or wish to collaborate, feel free to reach out to me.
 
-
-
 # 🔥 News
 - *2024.04*: &nbsp;📣 We will present our work **(Global Instance Tracking)** at **TPAMI2023** during the **<a href="https://www.valser.org/2024/#/">VALSE2024</a >** poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our **<a href="https://xuchen-li.github.io/files/VALSE24Poster-364.pdf">Poster</a >** for more information).
 - *2024.03*: &nbsp;🏆 Obtain the first prize of Science and Innovation Scholarship from the Institute of Automation, Chinese Academy of Sciences.
@@ -62,8 +60,6 @@ Southeast University, Jiangsu
 
 # 💻 Research Experiences
 **2022.11 - Present**: Pursuing a Ph.D. degree at **<a href="http://english.ia.cas.cn">Institute of Automation, Chinese Academy of Sciences (CASIA)</a >**, conducting research on single-object tracking in **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a >**, initiated and organized by **<a href="https://huuuuusy.github.io">Dr. Shiyu Hu</a >**.
-
-
 
 # 📝 Publications 
 
