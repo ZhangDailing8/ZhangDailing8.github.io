@@ -27,7 +27,7 @@ Currently, my research focuses on visual object tracking, with a particular emph
 
 
 # 🔥 News
-- *2021.05*：&nbsp;🏆🏆 Win the second prize of RoboCup Family Group-Open PlatForm in the university group of RoboCup World Cup 2021 China.
+- *2021.05*: &nbsp;🏆🏆 Win the second prize of RoboCup Family Group-Open PlatForm in the university group of RoboCup World Cup 2021 China.
 - *2020.12*: &nbsp;🏆🏆 Obtain China National Scholarship (国家奖学金) (the highest honor for undergraduates in China, awarded to top 1% students of SEU)!
 
 # 🔬Research Interests
